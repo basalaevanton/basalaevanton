@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### I'm Anton 
-
-## I'm a  Front-end Developer 
+### I'm Anton, Front-end Developer 
 
 - 📍 I’m From Russia (Saint-Petersburg)
 - 
