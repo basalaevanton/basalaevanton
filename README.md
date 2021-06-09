@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+### I'm Anton 
 
+## I'm a  Front-end Developer 
 
-**basalaevanton/basalaevanton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 📍 I’m From Russia (Saint-Petersburg)
+- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
