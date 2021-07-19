@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+- ⚡ RESUME : ...https://github.com/basalaevanton/basalaevanton/blob/main/Resume%20Basalaev%20Anton%20JavaScript-dev.pdf
+
 ### Tech Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
