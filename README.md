@@ -3,14 +3,17 @@
 ### I'm Anton, Front-end Developer 
 
 - 📍 I’m From Russia (Saint-Petersburg)
+- ⚡ Link to my resume [***RESUME***](https://github.com/basalaevanton/basalaevanton/blob/main/Resume%20Basalaev%20Anton%20JavaScript-dev.pdf/ "Моё резюме")
 - 
-Here are some ideas to get you started:
+
+
+
 
 - 🔭 I’m currently working on ...  
-- 🌱 I’m currently learning ... React, Redux and Node.js
+- 🌱 I’m currently learning  React, Redux and Node.js
 -
+  
 
-- ⚡ RESUME : ...https://github.com/basalaevanton/basalaevanton/blob/main/Resume%20Basalaev%20Anton%20JavaScript-dev.pdf
 
 ### Tech Stack:
 
