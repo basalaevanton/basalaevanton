@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on ...  
+- 🔭 I’m currently working on study project Top app with NextJs
 - 🌱 I’m currently learning  Nextjs and Node.js
 -
   
