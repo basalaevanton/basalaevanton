@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on ...  
-- 🌱 I’m currently learning  React, Redux and Node.js
+- 🌱 I’m currently learning  Nextjs and Node.js
 -
   
 
