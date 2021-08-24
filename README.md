@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on pet project Рotel reservation with NextJs, TypeScript  and Firebase
+- 🔭 I’m currently working on pet project Hotel reservation with NextJs, TypeScript  and Firebase
 - 🌱 I’m currently learning  Nextjs and Node.js
 -
   
