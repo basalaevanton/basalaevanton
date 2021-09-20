@@ -21,7 +21,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![NextJs](https://img.shields.io/badge/-NextJs-333333.svg?&style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
 
 ### CodeWars:
