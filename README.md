@@ -9,9 +9,10 @@
 
 
 
-~~- 🔭 I’m currently working on pet project Hotel reservation with NextJs, TypeScript  and Firebase~~
-- 🌱 I’m currently learning  
--
+- 🔭 I’m currently working on FullStack pet project Safari E-shop. NestJs, PostgreSQL, React, Redux, Bootstrap
+
+- 🌱 I will study WebSockets, ThreeJs and Web 3.0
+
   
 
 
