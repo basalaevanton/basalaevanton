@@ -4,17 +4,14 @@
 
 - 📍 I’m From Russia (Saint-Petersburg)
 - ⚡ Link to my resume [***RESUME***](https://github.com/basalaevanton/basalaevanton/blob/main/Resume%20Basalaev%20Anton%20JavaScript-dev.pdf/ "Моё резюме")
-- 
 
+</br>
 
-
-
-- 🔭 I’m currently working on FullStack pet project Safari E-shop. NestJs, PostgreSQL, React, Redux, Bootstrap
+- 🔭 I’m currently working on ~~FullStack pet project Safari E-shop. NestJs, PostgreSQL, React, Redux, Bootstrap
 
 - 🌱 I will study WebSockets, ThreeJs and Web 3.0
 
-  
-
+</br>  
 
 ### Tech Stack:
 
@@ -26,6 +23,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-NextJs-333333.svg?&style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
+![MobX](https://img.shields.io/badge/-MobX-333333?style=flat&logo=mobx)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NextJs-333333.svg?&style=flat&logo=nestjs&logoColor=EE204D)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333.svg?&style=flat&logo=PostgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333.svg?&style=flat&logo=MongoDB)&nbsp;
