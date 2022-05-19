@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ~~FullStack pet project Safari E-shop (NestJs, PostgreSQL, React, Redux, Bootstrap)~~
 
-- 🌱 I will study WebSockets, ThreeJs and Web 3.0
+- 🌱 I will study Vue and algorithms
 
 </br>
 
