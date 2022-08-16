@@ -7,9 +7,9 @@
 
 </br>
 
-- 🔭 I’m currently working on ~~FullStack pet project Safari E-shop (NestJs, PostgreSQL, React, Redux, Bootstrap)~~
+- 🔭 I’m currently working 
 
-- 🌱 I will study Vue and algorithms
+- 🌱 I will study Vue 
 
 </br>
 
