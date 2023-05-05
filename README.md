@@ -7,9 +7,9 @@
 
 </br>
 
-- 🔭 I’m currently working 
+- 🔭 I’m currently working ...
 
-- 🌱 I will study Vue 
+- 🌱 I will study ... 
 
 </br>
 
