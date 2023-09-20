@@ -3,7 +3,6 @@
 ### I'm Anton, JavaScript Developer 
 
 - 📍 I’m From Russia (Saint-Petersburg)
-- ⚡ Link to my resume [***RESUME***](https://github.com/basalaevanton/basalaevanton/blob/main/Resume%20Basalaev%20Anton%20JavaScript-dev.pdf/ "Моё резюме")
 
 </br>
 
@@ -29,7 +28,5 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333.svg?&style=flat&logo=MongoDB)&nbsp;
 
 
-</br>
 
-### CodeWars:
-[![CodeWars](https://www.codewars.com/users/%D0%91%D0%B0%D1%81%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%20%D0%90%D0%BD%D1%82%D0%BE%D0%BD/badges/large)](https://www.codewars.com/users/Басалаев%20Антон)
+
